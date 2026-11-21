@@ -1,0 +1,24 @@
+{
+  "shots": [
+    {
+      "file": "1-cover.jpg",
+      "view": "cover",
+      "description": "Hero header with the title, the progress bar at 0 of 55, the tier counters and the top of the trophy grid."
+    },
+    {
+      "file": "2-roadmap.jpg",
+      "view": "roadmap",
+      "description": "The three-step roadmap to the platinum (story, 100% checklist, cleanup) with the missable-trophy warning."
+    },
+    {
+      "file": "3-tracker.jpg",
+      "view": "tracker",
+      "description": "The tracker with 12 trophies ticked, the progress bar at 12 of 55 (22%) and the earned tier counters updated."
+    },
+    {
+      "file": "4-missable.jpg",
+      "view": "missable-only filter",
+      "description": "The missable-only filter applied, showing the single possibly-missable trophy, Positive Mental Attitude."
+    }
+  ]
+}
